@@ -1,4 +1,7 @@
 # oneko-desktop
+
+## THERE'S A NEW DESKTOP VERSION OF THIS AT https://github.com/eepyfemboi/oneko-golang WHICH SUPPORTS AUTO STARTING WITH WINDOWS AND IT DOESNT MAKE U GO INTO TASK MANAGER TO CLOSE IT!! :3 
+
 cat follow mouse everywhere (real)
 
 check https://github.com/eepyfemboi/oneko
